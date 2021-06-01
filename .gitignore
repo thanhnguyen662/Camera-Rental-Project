@@ -1,6 +1,9 @@
+
+
 #backend
 backend/node_modules
 backend/src/public/css
+backend/.vscode
 
 #frontend
 client/node_modules
@@ -8,6 +11,7 @@ client/.pnp
 .pnp.js
 client/coverage
 client/build
+client/.vscode
 
 client/.DS_Store
 client/.env.local
